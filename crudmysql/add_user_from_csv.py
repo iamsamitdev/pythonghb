@@ -2,7 +2,7 @@ import pymysql
 from connectdb import connectmysql as con
 import csv
 
-# ฟังก์ชันสำหรับอ่านข้อมูลจากไฟล์ CSV และเพิ่มข้อมูลลงในตาราง users
+# ฟังก์ชันสำหรับอ่านข้อมูลจากไฟล์ CSV และเพิ่มข้อมูลลงในตาราง users aaaa
 def readcsvandinsertusers():
 
     connection = con.connectdb()
