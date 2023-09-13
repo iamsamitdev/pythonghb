@@ -1,0 +1,4 @@
+env
+.vscode
+module/__pycache__
+qrcodeimg/*
